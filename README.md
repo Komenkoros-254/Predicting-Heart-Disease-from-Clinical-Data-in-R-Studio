@@ -96,6 +96,4 @@ Main packages: `tidymodels`, `tidyverse`, `janitor`, `glmnet`, `ranger`, `xgboos
 
 Komen Kipkoros Meshack · https://www.datascienceportfol.io/komenkoros1999 · komenkoros1999@gmail
 
-## License
 
-[Choose a licence, for example MIT, and add a `LICENSE` file.]
